@@ -1,4 +1,6 @@
+Great! You can update the **Data Source** section of the `README.md` to reflect the source of the dataset. Here's the updated version with the dataset source mentioned:
 
+````markdown
 # Airbnb Price Prediction and Data Analysis
 
 This repository contains the analysis and machine learning pipeline for predicting the price of Airbnb listings based on various features. The project includes Exploratory Data Analysis (EDA), feature selection, data preprocessing, model training, and evaluation using several regression techniques such as Linear Regression, Random Forest, XGBoost, Gradient Boosting, and Artificial Neural Networks (ANN).
@@ -12,7 +14,8 @@ This repository contains the analysis and machine learning pipeline for predicti
 - [Feature Engineering](#feature-engineering)
 - [Modeling](#modeling)
 - [Results](#results)
-
+- [Contributing](#contributing)
+- [Data Source](#data-source)
 
 ## Overview
 
@@ -22,7 +25,6 @@ This project analyzes the Airbnb dataset to predict the price of listings based 
 
 ```bash
 ├── README.md               # Project overview and documentation
-├── Airbnb_Data.csv         # The dataset used for analysis
 ├── airbnb_analysis.py      # Python script for analysis and modeling
 └── notebooks/               # Jupyter notebooks for exploratory analysis and visualizations
 ````
@@ -41,6 +43,13 @@ To run this project, you need to install the following Python libraries:
 * matplotlib-venn
 * statsmodels
 
+
+
+## Data Source
+
+The dataset used for this analysis was downloaded from Kaggle:
+
+[Airbnb Price Dataset by Rupinder Singh Rana](https://www.kaggle.com/datasets/rupindersinghrana/airbnb-price-dataset)
 
 ## Data Analysis
 
@@ -109,4 +118,11 @@ The following features are found to be most important for predicting Airbnb pric
 * 'bathrooms'
 * 'property_type'
 * 'room_type'
+
+## Contributing
+
+Feel free to fork this repository, make improvements, and submit pull requests. You can also open issues for any bugs or suggestions.
+
+
+```
 
