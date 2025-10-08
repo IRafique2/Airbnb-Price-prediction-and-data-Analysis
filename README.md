@@ -1,6 +1,4 @@
-Great! You can update the **Data Source** section of the `README.md` to reflect the source of the dataset. Here's the updated version with the dataset source mentioned:
 
-````markdown
 # Airbnb Price Prediction and Data Analysis
 
 This repository contains the analysis and machine learning pipeline for predicting the price of Airbnb listings based on various features. The project includes Exploratory Data Analysis (EDA), feature selection, data preprocessing, model training, and evaluation using several regression techniques such as Linear Regression, Random Forest, XGBoost, Gradient Boosting, and Artificial Neural Networks (ANN).
