@@ -12,8 +12,7 @@ This repository contains the analysis and machine learning pipeline for predicti
 - [Feature Engineering](#feature-engineering)
 - [Modeling](#modeling)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -110,12 +109,4 @@ The following features are found to be most important for predicting Airbnb pric
 * 'bathrooms'
 * 'property_type'
 * 'room_type'
-
-## Contributing
-
-Feel free to fork this repository, make improvements, and submit pull requests. You can also open issues for any bugs or suggestions.
-
-
-This `README.md` file provides an overview of your work, setup instructions, and model evaluation results. Make sure to replace placeholders like `your-email@example.com` with your actual contact details.
-```
 
